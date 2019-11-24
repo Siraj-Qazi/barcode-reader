@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/barcode_reader.dir/barcode-reader.cpp.o  -o barcode_reader 

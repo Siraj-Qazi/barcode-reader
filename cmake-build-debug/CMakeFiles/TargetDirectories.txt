@@ -1,0 +1,3 @@
+/home/siraj/CLionProjects/barcode-reader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/siraj/CLionProjects/barcode-reader/cmake-build-debug/CMakeFiles/barcode_reader.dir
+/home/siraj/CLionProjects/barcode-reader/cmake-build-debug/CMakeFiles/edit_cache.dir
